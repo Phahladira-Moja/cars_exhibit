@@ -4,6 +4,7 @@ import Navbar from "./Navbar";
 import SearchBar from "./SearchBar";
 import CustomButton from "./CustomButton";
 import CustomFilter from "./CustomFilter";
+import CarCard from "./CarCard";
 import SearchManufacturer from "./SearchManufacturer";
 
 export {
@@ -14,4 +15,5 @@ export {
   CustomFilter,
   CustomButton,
   SearchManufacturer,
+  CarCard,
 };
