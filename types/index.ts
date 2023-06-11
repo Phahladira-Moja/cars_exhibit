@@ -2,7 +2,7 @@ import { MouseEventHandler } from "react";
 
 export interface CustomButtonProps {
   title: string;
-  isDisabled: boolean;
+  isDisabled?: boolean;
   rightIcon?: string;
   textStyles?: string;
   containerStyles?: string;
