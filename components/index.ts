@@ -6,6 +6,7 @@ import CustomButton from "./CustomButton";
 import CustomFilter from "./CustomFilter";
 import CarCard from "./CarCard";
 import CarDetails from "./CarDetails";
+import ShowMore from "./ShowMore";
 import SearchManufacturer from "./SearchManufacturer";
 
 export {
@@ -18,4 +19,5 @@ export {
   SearchManufacturer,
   CarCard,
   CarDetails,
+  ShowMore,
 };
